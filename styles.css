@@ -1,0 +1,56 @@
+body {
+  max-width: 768px;
+  padding: 48px 24px;
+  margin: auto;
+}
+
+header{
+    display:inline;
+}
+.box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.box1 {
+  text-align: center;
+  border-radius: 25px;
+  border: 1px solid black;
+  width: 32%;
+  padding-bottom: 18%; /* 32:18, i.e. 16:9 */
+  margin-bottom: 2%; /* (100-32*3)/2 */
+}
+
+.box2 {
+  text-align: center;
+  border-radius: 25px;
+  border: 1px solid black;
+  width: 32%;
+  padding-bottom: 18%; /* 32:18, i.e. 16:9 */
+  margin-bottom: 2%; /* (100-32*3)/2 */
+}
+
+.box3 {
+  text-align: center;
+  border-radius: 25px;
+  border: 1px solid black;
+  width: 32%;
+  padding-bottom: 18%; /* 32:18, i.e. 16:9 */
+  margin-bottom: 2%; /* (100-32*3)/2 */
+}
+
+.contactButton {
+  display: block;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+  .emilyPic {
+    width: 150px;
+    height: auto;
+    float: left;
+  }
