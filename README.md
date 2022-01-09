@@ -5,5 +5,5 @@ I graduated with a Bachelor of Fine Arts from Tennessee Tech University, concent
 I have a handful of hobbies I like to do when not developing! I like to lift weights, do yoga, make art, play video games & read. I also got certified to sail by the American Sailing Association in 2020 and take a boat out on the weekends when I can!
 
 
-##Languages
+## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emi-ve)](https://github.com/emi-ve/github-readme-stats)
